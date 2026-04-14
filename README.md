@@ -11,10 +11,10 @@ O dashboard permite uma análise dinâmica através de:
 ## 📸 Visualização do Projeto
 
 ### Filtro Dinâmico por Região
-![Análise por Mapa](./dashboard-mapa.jpg)
+![Análise por Mapa](./dashboard-mapa.png)
 
 ### Faturamento por Marca e Categoria
-![Faturamento por Marca](./dashboard-faturamento.jpg)
+![Faturamento por Marca](./dashboard-faturamento.png)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Power BI:** Modelagem de dados e criação de visualizações.
