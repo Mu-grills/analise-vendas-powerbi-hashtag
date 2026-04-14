@@ -1,16 +1,26 @@
-# Dashboard de Vendas - Intensivão Power BI
+# 📊 Dashboard de Vendas e Performance (Hashtag Programação)
 
-Este projeto foi desenvolvido durante as aulas da Hashtag Programação, focado em transformar dados brutos de vendas em insights estratégicos.
+Projeto prático desenvolvido para análise de indicadores de vendas, faturamento e distribuição geográfica, utilizando Power BI e tratamento de dados.
 
-## 📊 Visualização do Projeto
-![Dashboard de Vendas](./dashb.png) 
+## 🚀 Funcionalidades e Insights
+O dashboard permite uma análise dinâmica através de:
+* **Análise Geográfica:** Filtros por mapa que mostram o desempenho por região.
+* **Faturamento por Marca:** Visão detalhada de receita filtrada por fabricantes.
+* **KPIs Estratégicos:** Total de faturamento, custo e margem de lucro.
 
-## 🛠️ Tecnologias e Ferramentas
-* **Power BI:** Tratamento de dados (Power Query) e visualização.
-* **Excel/CSV:** Base de dados utilizada.
-* **DAX:** Criação de medidas calculadas.
+## 📸 Visualização do Projeto
 
-## 📝 O que foi desenvolvido:
-* Limpeza e modelagem de dados.
-* Criação de indicadores de performance (KPIs) como Faturamento Total e Margem de Lucro.
-* Filtros interativos por data, região e categoria.
+### Filtro Dinâmico por Região
+![Análise por Mapa](./dashboard-mapa.jpg)
+
+### Faturamento por Marca e Categoria
+![Faturamento por Marca](./dashboard-faturamento.jpg)
+
+## 🛠️ Tecnologias Utilizadas
+* **Power BI:** Modelagem de dados e criação de visualizações.
+* **Power Query (M):** Limpeza e transformação da base de dados `Vendas.csv`.
+* **DAX:** Criação de medidas para cálculo de performance.
+
+## 📁 Como visualizar
+1. Baixe o arquivo `Aula 1 - Do Zero.pbix` presente neste repositório.
+2. Abra no **Power BI Desktop**.
